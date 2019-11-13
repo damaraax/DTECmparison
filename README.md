@@ -1,0 +1,2 @@
+# DTECmparison
+Comparing the DTEs 
